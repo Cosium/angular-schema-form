@@ -1,5 +1,5 @@
 {
-  "name": "@cosium/angular-schema-form",
+  "name": "@cosium-fork/angular-schema-form",
   "version": "0.8.130",
   "publishConfig": {
     "registry": "https://nexus.cosium.dev/repository/npm-releases"
