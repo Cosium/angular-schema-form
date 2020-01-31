@@ -2,7 +2,7 @@
   "name": "@cosium-fork/angular-schema-form",
   "version": "0.8.130",
   "publishConfig": {
-    "registry": "https://nexus.cosium.dev/repository/npm-releases"
+    "registry": "https://nexus.cosium.dev/repository/npm-releases/"
   },
   "description": "Create complex forms from a JSON schema with angular.",
   "repository": "Textalk/angular-schema-form",
